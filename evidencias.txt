@@ -1,0 +1,39 @@
+EJERCICIO 1
+
+Seleccione un ejercicio para ejecutar:
+1. Ejercicio 1: Cine
+2. Ejercicio 2: Combustible
+3. Salir
+Ingrese el número de la opción deseada: 1
+Ingrese la cantidad de boletos que desea comprar: 6
+Detalles de la compra:
+Cantidad de boletos: 6
+Precio unitario: 75.0
+Subtotal: 450.0
+Descuento: 45.0
+Total a pagar: 405.0
+
+EJERCICIO 2
+
+Seleccione un ejercicio para ejecutar:
+1. Ejercicio 1: Cine
+2. Ejercicio 2: Combustible
+3. Salir
+Ingrese el número de la opción deseada: 2
+Ingrese la distancia recorrida en kilómetros: 300
+Ingrese la cantidad de litros consumidos: 25
+Resultados del cálculo de combustible:
+Distancia recorrida: 300.0 km
+Litros consumidos: 25.0 L
+Rendimiento: 12.0 km/L
+Costo total: $600.00
+
+
+OPCION Salir
+
+Seleccione un ejercicio para ejecutar:
+1. Ejercicio 1: Cine
+2. Ejercicio 2: Combustible
+3. Salir
+Ingrese el número de la opción deseada: 3
+Saliendo del programa...
